@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 8499B1 #80B3FF
-  primary-rgb: "132,153,177" #"128,179,255"
-  secondary: 7B6D8D #FD6E8A
-  secondary-dark: 593F62 #A2122F
+  primary: 232242 #80B3FF
+  primary-rgb: "35,34,66" #"128,179,255"
+  secondary: 2E768C #FD6E8A
+  secondary-dark: 012A36 #A2122F
 
 # Footer settings
 footer:
@@ -41,7 +41,7 @@ footer:
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  - title: Upwork
+  - title: upwork 
     url: https://www.upwork.com/freelancers/~01070018b468d687b5
   # - title: Google Play
     # url: http://stackoverflow.com/questions/tagged/jekyll
