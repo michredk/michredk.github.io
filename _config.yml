@@ -41,8 +41,8 @@ footer:
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  # - title: facebook
-  #   url:
+  - title: Upwork
+    url: https://www.upwork.com/freelancers/~01070018b468d687b5
   # - title: Google Play
     # url: http://stackoverflow.com/questions/tagged/jekyll
   - title: linkedin
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: My Location
+  # - line: My Location
   - line: Gdańsk, Poland
 
 # Credits content
