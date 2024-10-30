@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Michał Redkwa
-  location: Location
+  # location: Location
   social: Find me!
-  credits: 
+  # credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,12 +51,12 @@ social:
     url: http://github.com/michredk
 
 # Postal address (add as many lines as necessary)
-address:
+# address:
   # - line: My Location
-  - line: Gdańsk, Poland
+  # - line: Gdańsk, Poland
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
