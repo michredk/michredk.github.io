@@ -17,13 +17,13 @@
             <li>
               <li>
                 <a href="https://www.upwork.com/freelancers/~01070018b468d687b5" class="btn-social btn-outline">
-                  <img src="img/upwork1.png" alt="Upwork Icon" style="background-color: transparent; width: 24px; height: 24px;">
+                  <img class="fa-brands fa-fw" src="img/upwork1.png" alt="Upwork Icon" style="background-color: transparent; width: 22px; height: 22px;">
                 </a>
               </li>
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
+              <a href="{{ network.url }}" class="btn-social btn-outline">
+                <i class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
             </li>
             {% endfor %}
           </ul>
