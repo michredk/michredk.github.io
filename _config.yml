@@ -35,14 +35,14 @@ footer:
   copyright: Michał Redkwa
   location: Location
   social: Find me!
-  credits: Credits
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  - title: upwork 
-    url: https://www.upwork.com/freelancers/~01070018b468d687b5
+  # - title: upwork 
+    # url: https://www.upwork.com/freelancers/~01070018b468d687b5
   # - title: Google Play
     # url: http://stackoverflow.com/questions/tagged/jekyll
   - title: linkedin
