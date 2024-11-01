@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2023-01-01
+img: RunControlLogo.png
+alt: image-alt
+project-date: January 2023
+client: Start Bootstrap
+category: Android Development
+description: An app that collects information about running workouts.
+---
+<img src="img/portfolio/RunControl1.png" width="320">
