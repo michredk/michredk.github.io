@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2023
 client: Start Bootstrap
 category: Android Development
-description: An app that collects information about running workouts.
----
+description: An app that collects information about running workouts.  
 <img src="img/portfolio/RunControl1.png" width="320">
+---
