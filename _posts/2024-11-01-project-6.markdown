@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 5
+date: 2024-11-01
+img: LapseLabLogo.png
+alt: image-alt
+description: <img src="img/portfolio/Lapse1.png"><img src="img/portfolio/Lapse2.png">  <img src="img/portfolio/Lapse3.png"><img src="img/portfolio/Lapse4.png">  [![LapseLab](img/portfolio/LapseLabYT.png)](https://youtu.be/l7JsrIJUiwk?si=7azRGMhD9dP_KqeA "Click to Watch!")
+---
