@@ -4,5 +4,5 @@ modal-id: 3
 date: 2024-11-01
 img: LapseLabLogo.png
 alt: image-alt
-description: <img src="img/portfolio/Lapse1.png" width="900">  [![LapseLab](img/portfolio/LapseLabYT.png)](https://youtu.be/l7JsrIJUiwk?si=7azRGMhD9dP_KqeA "Click to Watch!")
+description: Available on Google Play  [![LapseLab](img/portfolio/googleplay_baner.png)](https://play.google.com/store/apps/details?id=com.michredk.lapselab)  ![albums](img/portfolio/albums.gif)  ![albums](img/portfolio/city.gif)  ![albums](img/portfolio/dragon.gif)  <img src="img/portfolio/LapseLab1.png" width="750">  ![albums](img/portfolio/oliwa.gif)
 ---

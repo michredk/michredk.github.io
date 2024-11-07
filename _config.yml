@@ -1,9 +1,10 @@
 # Site settings
+title: Freelancer
 email: michredk@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Welcome to my developer site!"
 keywords: "android, software, development, freelancer"
-skills: "Android Developer"
+skills: "Android Developer - Web Developer"
 meta_author: Redkwa Michal
 
 # Google webmaster tools
