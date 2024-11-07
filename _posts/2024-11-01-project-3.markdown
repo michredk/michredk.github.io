@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 3
-date: 2024-11-01
-img: LapseLabLogo.png
-alt: image-alt
-description: Available on Google Play  <img src="img/portfolio/LapseLab1.png" width="750">  <img src="img/portfolio/albums.gif" alt="albums" width="350">  <img src="img/portfolio/city.gif" alt="city" width="350">  <img src="img/portfolio/dragon.gif" alt="dragon" width="350">  <img src="img/portfolio/oliwa.gif" alt="dragon" width="350">
----
