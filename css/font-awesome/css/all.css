@@ -3,6 +3,17 @@
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * Copyright 2022 Fonticons, Inc.
  */
+
+ .clickable-banner {
+   transition: transform 0.2s, opacity 0.2s;
+   cursor: pointer;
+ }
+
+ .clickable-banner:hover {
+   transform: scale(1.05); /* Slight zoom effect */
+   opacity: 0.9; /* Slight dimming */
+ }
+
 .fa {
   font-family: var(--fa-style-family, "Font Awesome 6 Free");
   font-weight: var(--fa-style, 900); }
