@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 5
-date: 2024-11-01
-img: FoodBookLogo.png
-alt: image-alt
-description: <img src="img/portfolio/FoodBook1.png">  <img src="img/portfolio/FoodBook2.png"  <img src="img/portfolio/FoodBook3.png"
----
