@@ -3,17 +3,6 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
- 
- .clickable-banner {
-    transition: transform 0.2s, opacity 0.2s;
-    cursor: pointer;
-  }
- 
-  .clickable-banner:hover {
-    transform: scale(1.05); /* Slight zoom effect */
-    opacity: 0.9; /* Slight dimming */
-  }
-
 body {
     overflow-x: hidden;
 }
