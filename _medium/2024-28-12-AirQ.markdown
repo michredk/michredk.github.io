@@ -1,0 +1,7 @@
+---
+layout: default
+link: https://medium.com/@michredk/raspberry-pi-zero-w-and-python-rest-api-for-building-an-air-quality-monitoring-system-195c5dc53c2d
+date: 2024-12-28
+title: Raspberry Pi Zero W and Python REST API for Building an Air Quality Monitoring System
+description: The article explains how to build an Air Quality Monitoring System using a Raspberry Pi Zero W, sensors, and a Flask REST API to collect and share data on temperature, humidity, and air quality. It’s beginner-friendly and includes steps for setup, sensor connections, and creating a Python-based API.
+---

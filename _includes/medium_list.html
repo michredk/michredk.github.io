@@ -1,0 +1,54 @@
+<section id="medium">
+    <div class="container medium-flex-list">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2>Published articles</h2>
+          <hr class="star-primary">
+        </div>
+      </div>
+
+      <div class="articles-list">
+        {% for article in site.medium %}
+          <article>
+            <h3>
+              <a href="{{ article.link }}" class="article-title">{{ article.title }}</a>
+            </h3>
+            <time class="article-date">{{ article.date | date: "%B %d, %Y" }}</time>
+            <p class="article-desc">{{ article.description }}</p>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+</section>
+      
+<style>
+  .articles-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  article {
+    padding: 1rem;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    /* background: #f5f5f5; */
+  }
+  .article-title {
+    /* font-size: 2.75rem; */
+    color: rgb(35,34,66); /* Primary */
+    text-decoration: none;
+  }
+  .article-title:hover {
+    text-decoration: underline;
+  }
+  .article-date {
+    font-size: 2rem;
+    color: #2E768C; /* Secondary */
+    margin-top: 0.5rem;
+  }
+  .article-desc {
+    color: rgb(64, 63, 82);
+    margin-top: 0.5rem;
+  }
+</style>
+      

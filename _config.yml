@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 232242 #80B3FF
-  primary-rgb: "35,34,66" #"128,179,255"
-  secondary: 2E768C #FD6E8A
-  secondary-dark: 012A36 #A2122F
+  primary: 232242
+  primary-rgb: "35,34,66"
+  secondary: 2E768C
+  secondary-dark: 012A36
 
 # Footer settings
 footer:
@@ -62,10 +62,16 @@ social:
 markdown: kramdown
 permalink: pretty
 
-#for posts
+#for projects
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       permalink: ""
+
+collections:
+  contribute:
+    output: true
+  medium:
+    output: true
