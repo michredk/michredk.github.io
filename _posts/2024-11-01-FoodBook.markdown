@@ -4,5 +4,5 @@ modal-id: 2
 date: 2024-11-01
 img: FoodBookLogo.png
 alt: image-alt
-description: <img src="img/portfolio/FoodBook1.png" width="725">  <img src="img/portfolio/FoodBook2.png"  <img src="img/portfolio/FoodBook3.png" width="725">
+description: <img src="img/portfolio/github-btn.png" alt="Github btn" onclick="window.location.href='https://github.com/michredk/foodBook';" class="clickable-banner" width="300"> <img src="img/portfolio/FoodBook1.png" width="725">  <img src="img/portfolio/FoodBook2.png"  <img src="img/portfolio/FoodBook3.png" width="725">
 ---

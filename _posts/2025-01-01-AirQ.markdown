@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 4
+date: 2025-01-01
+img: airq/logo.png
+alt: image-alt
+description: <img src="img/portfolio/airq/medium-text.png" width="725"> <img src="img/portfolio/medium-btn.png" alt="Medium btn" onclick="window.location.href='https://medium.com/@michredk/raspberry-pi-zero-w-and-python-rest-api-for-building-an-air-quality-monitoring-system-195c5dc53c2d';" class="clickable-banner"> <img src="img/portfolio/airq/baner.png" width="725"> <img src="img/portfolio/github-btn.png" alt="Github btn" onclick="window.location.href='https://github.com/michredk/rpiAirQ';" class="clickable-banner" width="300"> <img src="img/portfolio/airq/proj-descr.png" width="725"> <img src="img/portfolio/airq/screen1.png" alt="screen1" width="350"> <img src="img/portfolio/airq/screen2.png" alt="screen2" width="350">
+---
