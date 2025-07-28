@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 {% include head.html %}
@@ -7,10 +8,14 @@
   {% include header.html %}
   
   {% include portfolio_grid.html %}
-  {% include contribute_grid.html %}
-  {% include medium_list.html %}
-
+  
   {% include about.html %}
+  
+  {% comment %}
+  {% include contribute_grid.html %}
+  {% endcomment %}
+  
+  {% include medium_list.html %}
 
   {% if site.contact == "static" %}
   {% include contact_static.html %}
